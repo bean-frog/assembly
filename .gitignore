@@ -1,0 +1,7 @@
+**/*
+!.gitignore
+!asmbuild.sh
+!README.md
+!*/
+!**/*.asm
+
