@@ -3,5 +3,6 @@
 !asmbuild.sh
 !README.md
 !*/
+!lowleveltv-rosettastone/*
 !**/*.asm
 
